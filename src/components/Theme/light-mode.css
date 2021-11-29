@@ -1,0 +1,20 @@
+.theme {
+    display: flex;
+    justify-content: center;
+    float: right;
+}
+
+button {
+    padding: 8px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    font-size: 1em;
+    margin-top: 1%;
+    outline: none;
+}
+
+button:hover {
+    background: rgb(45, 50,102);
+}

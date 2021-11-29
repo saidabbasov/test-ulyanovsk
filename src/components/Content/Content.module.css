@@ -1,0 +1,10 @@
+.content {
+    justify-content: center;
+}
+
+.content img {
+    width: 350px;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 50px
+}
